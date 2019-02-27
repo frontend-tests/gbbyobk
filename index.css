@@ -1,0 +1,22 @@
+/* TBX Custom */
+
+body#tbx {
+  background-color: #e41f2e;
+  color: #ffffff;
+}
+#TBXechoMessage {
+  width: 75%;
+  border: none;
+  padding: 0 20px;
+  box-sizing: border-box;  
+}
+#TBXechoButton {
+  width: 25%;
+  background-color: #363839;
+  color: #ffffff;
+  border: none;
+}
+.Header, p, #TBXechoApiData {
+  text-align: center;
+  margin: 20px 0;
+}
