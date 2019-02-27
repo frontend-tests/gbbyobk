@@ -35,3 +35,9 @@ $ npm run-script build
 ```sh
 $ npm run-script build-run
 ```
+
+Now, visit: http://localhost:8080
+
+If everything goes well you should see something like this:
+
+![https://media.giphy.com/media/4HtKVYLzHpVwCMWp47/giphy.gif](https://media.giphy.com/media/4HtKVYLzHpVwCMWp47/giphy.gif)
